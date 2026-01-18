@@ -1,0 +1,1 @@
+# array-pattern-1D
